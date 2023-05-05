@@ -1,5 +1,0 @@
-I made a local git repo on my computer and commited this file remotely.
-
-Looks like it worked ;)
-
-This will probably become useful later so that I don't have to manually download your changes.
