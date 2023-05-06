@@ -1,3 +1,5 @@
+# Python Script to Estimate Build Time
+
 binUtils_SBU = input("Enter the compile time of 1SBU: ")
 binUtils_SBU = int(binUtils_SBU)
 
