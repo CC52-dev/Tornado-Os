@@ -4,6 +4,6 @@ if [$LFS -eq "/mnt/lfs"]; then
 else
 	echo "Mounting Point Link Not Found"
 	echo "Setting Mounting Point Link"
-	export $LFS=/mnt/lfs
+	export $LFS="/mnt/lfs"
 	echo "Mounting Point Link Set!"
 fi
