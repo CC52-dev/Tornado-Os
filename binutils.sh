@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 ./checkmount.sh
 tar -xvf binutils-2.40.tar.xz
 cd binutils-2.40
